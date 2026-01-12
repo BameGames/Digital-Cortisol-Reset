@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nickjr212121.github.io/Digital-Cortisol-Reset/sitemap.xml
